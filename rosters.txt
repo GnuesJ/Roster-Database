@@ -1,0 +1,28 @@
+math | 211 | 5 | blah
+Abc | Defd | 12345 | Upper-Junior | 80 | 3.2 | 12/3/2018 | 10/4/2015
+Seung | Kim | 987654321 | Upper-Senior | 120 | 3.3 | 12/3/4567 | 12/3/2020
+FirstSeung | LastLee | 1234 | Lower-Senior | 100 | 3.4 | 12/12/1930 | 12/12/2020
+Jae | Park | 123435 | Lower-Senior | 100 | 4 | 12/12/1912 | 12/12/2024
+end_roster |
+science | 211 | 5 | blah
+Seung | Lee | 12345 | Lower-Sophomore | 42 | 3.5 | 12/4/2018 | 12/3/2020
+end_roster |
+writing | 433 | 3 | blahhhhhhh
+Zxcv | Asdf | 123456 | Lower-Senior | 100 | 3.3 | 12/12/12 | 12/12/12
+Dfgh | Erty | 2345 | Upper-Senior | 120 | 4 | 12/12/12 | 12/12/12
+Tom | Fre | 5432154321 | Upper-Sophomore | 59 | 3.4 | 3/4/2018 | 5/2/3414
+end_roster |
+AlgebraII | 24876 | 4 | Seung
+Seung | Lee | 12345 | Upper-Sophomore | 50 | 4 | 12/13/1912 | 11/10/2050
+Robert | Stanisci | 123456 | Lower-Freshman | 1 | 1.1 | 1/2/1980 | 1/2/2020
+end_roster |
+Random | 432 | 10 | randomjay
+Dfgh | Rtyu | 234656 | Upper-Sophomore | 50 | 3.4 | 12/12/12 | 12/12/12
+end_roster |
+test | 123 | 4 | testname
+TestFirst | TestLast | 123456 | Lower-Senior | 100 | 4 | 12/12/12 | 12/12/12
+end_roster |
+test2 | 123 | 5 | testname2
+TestFirst2 | TestLast2 | 123456 | Lower-Senior | 100 | 4 | 12/12/12 | 12/12/12
+TestFirst3 | TestLast3 | 123456 | Lower-Freshman | 4 | 4 | 12/12/12 | 12/12/12
+end_roster |
